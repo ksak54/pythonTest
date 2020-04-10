@@ -8,5 +8,4 @@ def greeting(name):
     print('Hello World')
 
 
-greeting("Saksham")
 greeting("Anjali")
